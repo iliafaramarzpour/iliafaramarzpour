@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/ifaramarzpour" target="blank"><img src="https://img.shields.io/twitter/follow/ifaramarzpour?logo=twitter&style=for-the-badge" alt="ifaramarzpour" /></a> </p>
 
-- 🔭 I’m currently working on [Roocket.ir](https://roocket.ir/)
+- 🔭 I’m currently working on [Legamart.com](http://legamart.com/)
 
-- 🌱 I’m currently learning **Design Patterns, clean code , nest.js**
+- 🌱 I’m currently learning **Design Patterns, clean code , Javascript**
 
 - 👯 I’m looking to collaborate on [Unknown](Unknown)
 
@@ -19,7 +19,7 @@
 
 - 📝 I regularly write articles on [https://virgool.io/@iliafaramarzpour](https://virgool.io/@iliafaramarzpour)
 
-- 💬 Ask me about **react , javascript , typescript , nodejs**
+- 💬 Ask me about **react , next.js , javascript , typescript , nodejs**
 
 - 📫 How to reach me **iliafaramarzpour@gmail.com**
 
