@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ilia</h1>
-<h3 align="center">A passionate frontend developer from Iran</h3>
+<h3 align="center">A passionate Frontend Developer from Iran</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iliafaramarzpour&label=Profile%20views&color=0e75b6&style=flat" alt="iliafaramarzpour" /> </p>
 
@@ -9,17 +9,17 @@
 
 - 🔭 I’m currently working on [Legamart.com](http://legamart.com/)
 
-- 🌱 I’m currently learning **Design Patterns, clean code , Javascript**
+- 🌱 I’m currently learning **Thinking, Decision making, To act**
 
-- 👯 I’m looking to collaborate on [Unknown](Unknown)
+- 👯 I’m looking to collaborate on OpenSource
 
-- 🤝 I’m looking for help with [Unknown](Unknown)
+- 🤝 I’m looking for help with [Next.js](https://nextjs.org/) - [React.js](https://react.dev/)
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ilia-faramarzpour-879915154/](https://www.linkedin.com/in/ilia-faramarzpour-879915154/)
 
 - 📝 I regularly write articles on [https://virgool.io/@iliafaramarzpour](https://virgool.io/@iliafaramarzpour)
 
-- 💬 Ask me about **react , next.js , javascript , typescript , nodejs**
+- 💬 Ask me about **Html, CSS, Javascript, Typescript, ReactJs, Next.js, Node.js, Nest.js**
 
 - 📫 How to reach me **iliafaramarzpour@gmail.com**
 
